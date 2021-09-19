@@ -7,4 +7,5 @@
 - [False Positive Method](https://colab.research.google.com/drive/1N9NrjuABR9m_mQuAwOnKfM97q0joI_K6?authuser=2#scrollTo=W4HOM1TTdjdZ)
 - [Minima Search With Golden Section](https://colab.research.google.com/drive/1orIQkUXrqzGBFBt6zvGBNUsksabU78Zp?usp=sharing)
 - [Minima Search With Tao Optimizer](https://colab.research.google.com/drive/1yQKAl7ySHF7xMNH6XKfeiIXtBPD0hRDG?usp=sharing)
+- [Derivative with n Dimensions](https://colab.research.google.com/drive/1DkZGX4iAmYVOfUVZ2hB-hvXnrnkDzck5?usp=sharing)
 
