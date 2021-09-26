@@ -8,4 +8,8 @@
 - [Minima Search With Golden Section](https://colab.research.google.com/drive/1orIQkUXrqzGBFBt6zvGBNUsksabU78Zp?usp=sharing)
 - [Minima Search With Tao Optimizer](https://colab.research.google.com/drive/1yQKAl7ySHF7xMNH6XKfeiIXtBPD0hRDG?usp=sharing)
 - [Derivative with n Dimensions](https://colab.research.google.com/drive/1DkZGX4iAmYVOfUVZ2hB-hvXnrnkDzck5?usp=sharing)
+- [Non-liner Desent Method](https://colab.research.google.com/drive/1DkZGX4iAmYVOfUVZ2hB-hvXnrnkDzck5?authuser=2#scrollTo=isAlBdazCwo9)
+    ![non-liner gif](liner.gif)
+- [Golden Section with Desent Method](https://colab.research.google.com/drive/1DkZGX4iAmYVOfUVZ2hB-hvXnrnkDzck5?authuser=2#scrollTo=isAlBdazCwo9)
+    ![golden section gif](golden_section.gif)
 
